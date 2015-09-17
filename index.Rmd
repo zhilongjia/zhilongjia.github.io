@@ -1,0 +1,29 @@
+---
+title: "Exploring Drug Repositioning!"
+author: "Zhilong Jia"
+date: "17 September 2015"
+output: html_document
+---
+
+_Welcome to my personal homepage_
+
+I am a PhD student researching Bioinformatics. My research interest is drug repositioning. I use R almost everyday.
+
+### Some Projects:
+
+*  [Gene Ranking of RNA-Seq Data via Discriminant Non-Negative Matrix Factorization (DNMF)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137782)
+    + The *DNMF package* and *codes* to reproduce the results in this article are availiable at [CRAN](https://cran.r-project.org/web/packages/DNMF/index.html) and [github]((https://github.com/zhilongjia/geneRanking)) as well.
+    + One article related with it was published in [PLOS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137782).
+
+* [Drug repositioning based on co-expressed gene-set enrichment analysis](https://github.com/zhilongjia/cogena)
+
+* [motiflogo](https://github.com/zhilongjia/motiflogo)
+
+### Contact
+* Github: <https://github.com/zhilongjia> 
+* LinkedIn: <https://uk.linkedin.com/in/zhilongjia>
+* Email: zhilongjia#&gmail
+
+Thank you!
+
+
