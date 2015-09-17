@@ -15,7 +15,8 @@ I am a PhD student researching Bioinformatics. My research interest is drug repo
     + The *DNMF package* and *codes* to reproduce the results in this article are availiable at [CRAN](https://cran.r-project.org/web/packages/DNMF/index.html) and [github]((https://github.com/zhilongjia/geneRanking)) as well.
     + One article related with it was published in [PLOS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137782).
 
-* [Drug repositioning based on co-expressed gene-set enrichment analysis](https://github.com/zhilongjia/cogena)
+* [Drug repositioning based on co-expressed gene-set enrichment analysis, cogena](https://github.com/zhilongjia/cogena)
+    + A vignette about cogena can be found at <http://zhilongjia.github.io/cogena/>.
 
 * [motiflogo](https://github.com/zhilongjia/motiflogo)
 
