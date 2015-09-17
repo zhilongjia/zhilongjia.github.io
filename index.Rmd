@@ -7,7 +7,7 @@ output: html_document
 
 _Welcome to my personal homepage_
 
-I am a PhD student researching Bioinformatics. My research interest is drug repositioning. I use R almost everyday.
+I am a PhD student researching Bioinformatics. My research interest is drug repositioning.
 
 ### Some Projects:
 
