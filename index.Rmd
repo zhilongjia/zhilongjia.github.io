@@ -13,8 +13,9 @@ I am a PhD student in Bioinformatics. My research interest is drug repositioning
     + **DNMF package**: [CRAN](https://cran.r-project.org/web/packages/DNMF/index.html)
     + **Reproducible research**: [Github](https://github.com/zhilongjia/geneRanking)
 
-* Drug repositioning based on co-expressed gene-set enrichment analysis, cogena
+* [Cogena, a novel tool for co-expressed gene-set enrichment analysis, applied to drug repositioning and drug mode of action discovery](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2737-8)
     + **cogena**: [Github](https://github.com/zhilongjia/cogena)
+    + **Reproducible research**: [Github](https://github.com/zhilongjia/geneRanking)
 
 ### Slides:
 
