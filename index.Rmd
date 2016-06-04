@@ -22,9 +22,10 @@ I am a bioinformatician. My research interest is drug repositioning.
 * [Drug repositioning based on coexpressed gene-set enrichment analysis (cogena)](https://github.com/zhilongjia/slides/blob/master/eurobioc2015_FlashlightII_cogena_ZhilongJia.pdf) at *[European Bioconductor Developers' Conference 2015](https://sites.google.com/site/eurobioc2015/)*
 
 ### Contact:
-* Github: <https://github.com/zhilongjia> 
-* LinkedIn: <https://uk.linkedin.com/in/zhilongjia>
-* Email: zhilongjia&gmail
+* [Github](https://github.com/zhilongjia) 
+* [Google Scholar](https://scholar.google.com/citations?user=Nrqp1VsAAAAJ&hl=en)
+* [LinkedIn](https://uk.linkedin.com/in/zhilongjia)
+* [Email](zhilongjia#gmail.com)
 
 Thank you!
 
