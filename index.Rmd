@@ -5,7 +5,7 @@ date: '`r Sys.Date()`'
 output: html_document
 ---
 
-I am a PhD student in Bioinformatics. My research interest is drug repositioning.
+I am a bioinformatician. My research interest is drug repositioning.
 
 ### Projects:
 
@@ -14,8 +14,8 @@ I am a PhD student in Bioinformatics. My research interest is drug repositioning
     + **Reproducible research**: [Github](https://github.com/zhilongjia/geneRanking)
 
 * [Cogena, a novel tool for co-expressed gene-set enrichment analysis, applied to drug repositioning and drug mode of action discovery](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2737-8)
-    + **cogena**: [Github](https://github.com/zhilongjia/cogena)
-    + **Reproducible research**: [Github](https://github.com/zhilongjia/geneRanking)
+    + **cogena**: [Github](https://github.com/zhilongjia/cogena) or [Bioconductor](http://www.bioconductor.org/packages/devel/bioc/html/cogena.html)
+    + **Reproducible research**: [Github](https://github.com/zhilongjia/psoriasis)
 
 ### Slides:
 
