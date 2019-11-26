@@ -1,10 +1,3 @@
----
-title: "Exploring Bioinformatics!"
-author: "Zhilong Jia"
-date: '`r Sys.Date()`'
-output: html_document
----
-
 I am a bioinformatician. My research interest is drug repositioning.
 
 ### Projects:
