@@ -1,4 +1,4 @@
-I am an Assistant Professor in Chinese PLA General Hospital. My research interest is drug repositioning. My ORCID ID is [0000-0003-2370-5073](https://orcid.org/0000-0003-2370-5073).
+I am an Assistant Professor in Chinese PLA General Hospital. My research interest is drug repositioning. My ORCID ID is [0000-0003-2370-5073](https://orcid.org/0000-0003-2370-5073). A full list of published articles is shown in [Google Scholar](https://scholar.google.com/citations?user=Nrqp1VsAAAAJ&hl=en).
 
 ### Selected papers with Reproducible codes:
 
@@ -32,7 +32,5 @@ I am an Assistant Professor in Chinese PLA General Hospital. My research interes
 * [Co-expressed gene-set enrichment analysis for drug repositioning with examples of psoriasis and periodontal diseases](https://github.com/zhilongjia/slides/blob/master/ZhilongJia-BDF20191013-v7.pdf) at [The 4th Big Data Forum for Life and Health Sciences 2019](https://bigd.big.ac.cn/conference/bdf2019)
 
 ### Contact:
-* [Github](https://github.com/zhilongjia) 
-* [Google Scholar](https://scholar.google.com/citations?user=Nrqp1VsAAAAJ&hl=en)
-* [LinkedIn](https://uk.linkedin.com/in/zhilongjia)
-* [Email](zhilongjia#qq.com)
+
+* Email: zhilongjia#qq.com or jiazhilong#plagh.org
