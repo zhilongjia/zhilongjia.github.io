@@ -14,7 +14,7 @@ Selected papers with Reproducible codes:
 ======
 * _2020_ [Transcriptome-based drug repositioning for coronavirus disease 2019 (COVID-19)](https://academic.oup.com/femspd/article/78/4/ftaa036/5871823)
    + **Reproducible research**: [code](https://github.com/zhilongjia/COVID-19)
-   
+   + ![Abstract Graph](../images/drpCOVID19.png)
 * _2020_ [Heightened Innate Immune Responses in the Respiratory Tract of COVID-19 Patients](https://www.sciencedirect.com/science/article/pii/S1931312820302444?via%3Dihub)
    + **Reproducible research (only related to my contributions)**: [code](https://github.com/zhilongjia/nCoV2019)
 
