@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Biotechnology, [Northwest University](https://english.nwu.edu.cn/), 2006-2010
+* M.S. in Biomedical Engineering, [National University of Defense Technology](https://english.nudt.edu.cn/), 2010-2013
+* Visiting Student in Bioinformatics, [The William Harvey Research Institute, QMUL](https://www.qmul.ac.uk/whri/) 2014-2016
+* Ph.D in Biomedical Engineering, [National University of Defense Technology](https://english.nudt.edu.cn/), 2013-2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-: Assistant Professor
+  * [Chinese PLA General Hospital](http://www.301hospital.com.cn/en2012/web/index.html)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Drug repositioning
+* Bioinformatics
 
 Publications
 ======
@@ -54,6 +44,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* [Peer Reviewers](https://publons.com/researcher/ABA-9776-2020/)
