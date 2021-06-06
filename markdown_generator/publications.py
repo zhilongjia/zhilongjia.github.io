@@ -34,7 +34,7 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
+publications = pd.read_csv("publications_zjia.tsv", sep="\t", header=0)
 publications
 
 
@@ -66,7 +66,7 @@ for row, item in publications.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
-    year = item.pub_date[:4]
+    year = item.pub_date
     
     ## YAML variables
     

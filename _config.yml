@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhilong Jia / mainpage"
+title                    : "Mainpage of Zhilong Jia"
 title_separator          : "-"
 name                     : &name "Zhilong Jia"
-description              : &description "Assistant Professor in Chinese PLA General Hospital"
+description              : &description "Assistant Professor in Chinese PLA General Hospital."
 url                      : https://zhilongjia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhilongjia/zhilongjia.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhilong"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in Chinese PLA General Hospital"
+  bio              : "Assistant Professor in Chinese PLA General Hospital."
   location         : "Beijing"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Nrqp1VsAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
