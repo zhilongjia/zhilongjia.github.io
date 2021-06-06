@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhilong"
+  name             : "Zhilong JIA"
   avatar           : "profile.png"
   bio              : "Assistant Professor in Chinese PLA General Hospital."
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Nrqp1VsAAAAJ&hl=en"
-  email            :
+  email            : "jiazhilong#plagh.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
