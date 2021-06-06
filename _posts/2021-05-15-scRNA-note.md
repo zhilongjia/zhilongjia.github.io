@@ -5,11 +5,8 @@ permalink: /posts/2021/05/scRNAnote/
 tags:
   - scRNA
   - Tutorial
+  - bookdown
 ---
 
-Training Class of Single Cell Sequencing Analysis.
-
-Note
-======
-The note is located at https://zhilongjia.github.io/scRNA/
+Single Cell Sequencing Analysis. See [webpage](https://zhilongjia.github.io/scRNA/).
 
