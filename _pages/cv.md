@@ -38,12 +38,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service
 ======
 * [Peer Reviewers](https://publons.com/researcher/ABA-9776-2020/)
