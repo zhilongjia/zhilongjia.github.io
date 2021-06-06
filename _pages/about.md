@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mainpage of Zhilong Jia"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an Assistant Professor in Chinese PLA General Hospital after obtaining a doctor of philosophy degree in biomedical engineering. My research interest is drug repositioning and bioinformatics. I developed drug repositioning methods, such as cogena, and applied them into cardiovascular disease, periodontal disease, mountain sickness and COVID-19.
 
-A data-driven personal website
+Selected papers with Reproducible codes:
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+* _2020_ [Transcriptome-based drug repositioning for coronavirus disease 2019 (COVID-19)](https://academic.oup.com/femspd/article/78/4/ftaa036/5871823)
+   + **Reproducible research**: [code](https://github.com/zhilongjia/COVID-19)
+   
+* _2020_ [Heightened Innate Immune Responses in the Respiratory Tract of COVID-19 Patients](https://www.sciencedirect.com/science/article/pii/S1931312820302444?via%3Dihub)
+   + **Reproducible research (only related to my contributions)**: [code](https://github.com/zhilongjia/nCoV2019)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* _2019_ [Time-Course Transcriptome Analysis for Drug Repositioning in *Fusobacterium nucleatum*-Infected Human Gingival Fibroblasts](https://www.frontiersin.org/articles/10.3389/fcell.2019.00204/full) or [PubMed](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6771468/)
+    + **Reproducible research**: [code](https://github.com/zhilongjia/Fn_HGFcell)
 
-Getting started
+
+* _2019_ [Transcriptional profiling in the livers of rats after hypobaric hypoxia exposure.](https://peerj.com/articles/6499/)
+    + **Reproducible research**: [code](https://github.com/zhilongjia/AMS_gut_liver_rat)
+
+* _2016_ [Cogena, a novel tool for co-expressed gene-set enrichment analysis, applied to drug repositioning and drug mode of action discovery](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2737-8)
+    + **cogena**: [code](https://github.com/zhilongjia/cogena) or [Bioconductor](http://www.bioconductor.org/packages/devel/bioc/html/cogena.html)
+    + **Reproducible research**: [code](https://github.com/zhilongjia/psoriasis)
+
+*  _2015_ [Gene Ranking of RNA-Seq Data via Discriminant Non-Negative Matrix Factorization (DNMF)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137782)
+    + **DNMF package**: [CRAN](https://cran.r-project.org/web/packages/DNMF/index.html)
+    + **Reproducible research**: [code](https://github.com/zhilongjia/geneRanking)
+
+
+Meeting with slides:
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* [Drug repositioning based on coexpressed gene-set enrichment analysis (cogena)](https://github.com/zhilongjia/slides/blob/master/eurobioc2015_FlashlightII_cogena_ZhilongJia.pdf) at [European Bioconductor Developers' Conference 2015](https://sites.google.com/site/eurobioc2015/)
+
+* [Co-expressed gene-set enrichment analysis for drug repositioning with examples of psoriasis and periodontal diseases](https://github.com/zhilongjia/slides/blob/master/ZhilongJia-BDF20191013-v7.pdf) at [The 4th Big Data Forum for Life and Health Sciences 2019](https://bigd.big.ac.cn/conference/bdf2019)
 
 Site-wide configuration
 ------
@@ -45,6 +60,3 @@ Many people use a git client to create files on their local computer and then pu
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
