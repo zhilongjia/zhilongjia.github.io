@@ -8,9 +8,6 @@ date: 2019-10-13
 location: "Beijing"
 ---
 
-Summary
-======
-
 * Cogena is a tool of gene set enrichment analysis for co-expression genes.
 * Cogena can be used in drug repositioning and discovering the MoA of drugs, illustrated with two disease, psoriasis and periodontal diseases, examples.
 * Cogena can be used to discovery similar drugs or treatable diseases (if the input of cogena is drug signature)
