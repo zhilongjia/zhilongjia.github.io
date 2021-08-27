@@ -2,6 +2,8 @@ I am an Assistant Professor in Chinese PLA General Hospital. My research interes
 
 ### Selected papers with Reproducible codes:
 
+* _2021_ [Transcriptional landscape in rat intestines under hypobaric hypoxia.](https://peerj.com/articles/11823/)
+    + **Reproducible research**: [code](https://github.com/zhilongjia/AMS_gut_liver_rat)
 
 * _2020_ [Transcriptome-based drug repositioning for coronavirus disease 2019 (COVID-19)](https://academic.oup.com/femspd/article/78/4/ftaa036/5871823)
    + **Reproducible research**: [code](https://github.com/zhilongjia/COVID-19)
@@ -30,6 +32,8 @@ I am an Assistant Professor in Chinese PLA General Hospital. My research interes
 * [Drug repositioning based on coexpressed gene-set enrichment analysis (cogena)](https://github.com/zhilongjia/slides/blob/master/eurobioc2015_FlashlightII_cogena_ZhilongJia.pdf) at [European Bioconductor Developers' Conference 2015](https://sites.google.com/site/eurobioc2015/)
 
 * [Co-expressed gene-set enrichment analysis for drug repositioning with examples of psoriasis and periodontal diseases](https://github.com/zhilongjia/slides/blob/master/ZhilongJia-BDF20191013-v7.pdf) at [The 4th Big Data Forum for Life and Health Sciences 2019](https://bigd.big.ac.cn/conference/bdf2019)
+
+* [Transcriptome-based drug repositioning for COVID-19](https://github.com/zhilongjia/slides/blob/master/BioST20210825_ZhilongJia-v6.pdf) at [World biological science and technology conference 2021 BioST virtual 2021](https://www.biostvirtual.org/)
 
 ### Contact:
 
