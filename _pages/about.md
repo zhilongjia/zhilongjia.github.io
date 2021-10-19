@@ -12,6 +12,11 @@ I am an Assistant Professor in Chinese PLA General Hospital after obtaining a do
 
 Selected papers:
 ======
+
+* _2021_ [The active lung microbiota landscape of COVID-19 patients through the metatranscriptome data analysis](https://bi.tbzmed.ac.ir/Inpress/bi-23378)
+   + **Reproducible research**: [code](https://github.com/yang-han-GH/COVID_Microbiota)
+   + ![Abstract Graph](../images/lung_microbiota_COVID19.png)
+
 * _2020_ [Impacts of the Plateau Environment on the Gut Microbiota and Blood Clinical Indexes in Han and Tibetan Individuals](https://journals.asm.org/doi/full/10.1128/mSystems.00660-19)
    + ![Abstract Graph](../images/highaltitudemicrobiota.png)
 
@@ -46,4 +51,7 @@ Meeting with slides:
 
 * [Co-expressed gene-set enrichment analysis for drug repositioning with examples of psoriasis and periodontal diseases](https://github.com/zhilongjia/slides/blob/master/ZhilongJia-BDF20191013-v7.pdf) at [The 4th Big Data Forum for Life and Health Sciences 2019](https://bigd.big.ac.cn/conference/bdf2019)
 
-Updated Date： 6 June, 2021.
+* [Transcriptome-based drug repositioning for COVID-19](https://github.com/zhilongjia/slides/blob/master/BioST20210825_ZhilongJia-v6.pdf) at [World biological science and technology conference 2021 BioST virtual 2021](https://www.biostvirtual.org/)
+
+
+Updated Date： 19 Oct., 2021.
