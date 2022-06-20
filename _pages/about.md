@@ -12,6 +12,10 @@ I am an Assistant Professor in Chinese PLA General Hospital after obtaining a do
 
 Selected papers:
 ======
+* _2022_ [Proteomic and clinical biomarkers for acute mountain sickness in a longitudinal cohort](https://www.nature.com/articles/s42003-022-03514-6)
+   + **Reproducible research**: [code](https://github.com/Monica1227/AMS_biomarker)
+   + ![Abstract Graph](../images/AMS_proteomic_biomarker.png)
+
 
 * _2021_ [The active lung microbiota landscape of COVID-19 patients through the metatranscriptome data analysis](https://bi.tbzmed.ac.ir/Inpress/bi-23378)
    + **Reproducible research**: [code](https://github.com/yang-han-GH/COVID_Microbiota)

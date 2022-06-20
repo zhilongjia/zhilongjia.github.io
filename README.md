@@ -1,6 +1,9 @@
-I am an Assistant Professor in Chinese PLA General Hospital. My research interest is drug repositioning. My ORCID ID is [0000-0003-2370-5073](https://orcid.org/0000-0003-2370-5073). A full list of published articles is shown in [Google Scholar](https://scholar.google.com/citations?user=Nrqp1VsAAAAJ&hl=en).
+I am an Assistant Professor in Chinese PLA General Hospital. My research interest is drug repositioning and bioinformatics. My ORCID ID is [0000-0003-2370-5073](https://orcid.org/0000-0003-2370-5073). A full list of published articles is shown in [Google Scholar](https://scholar.google.com/citations?user=Nrqp1VsAAAAJ&hl=en).
 
 ### Selected papers with Reproducible codes:
+
+* _2022_ [Proteomic and clinical biomarkers for acute mountain sickness in a longitudinal cohort](https://www.nature.com/articles/s42003-022-03514-6)
+  + **Reproducible research**: [code](https://github.com/Monica1227/AMS_biomarker)
 
 * _2021_ [Transcriptional landscape in rat intestines under hypobaric hypoxia.](https://peerj.com/articles/11823/)
     + **Reproducible research**: [code](https://github.com/zhilongjia/AMS_gut_liver_rat)
