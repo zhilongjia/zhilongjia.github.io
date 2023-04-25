@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in Chinese PLA General Hospital after obtaining a doctor of philosophy degree in Biomedical Engineering. My research interests are drug repositioning and bioinformatics. I developed drug repositioning methods, such as cogena, and applied them into various diseases, such as cardiovascular disease, periodontal disease, mountain sickness and COVID-19.
+I am an Associate Professor in Chinese PLA General Hospital after obtaining a doctor of philosophy degree in Biomedical Engineering. My research interests are drug repositioning and Omics I developed drug repositioning methods, such as cogena, and applied them into various diseases, such as cardiovascular disease, periodontal disease, mountain sickness and COVID-19.
 
 Selected papers:
 ======
+* _2023_ [Low-dose of caffeine alleviates high altitude pulmonary edema via regulating mitochondrial quality control process in AT1 cells](https://www.frontiersin.org/articles/10.3389/fphar.2023.1155414/full)
+   + ![Abstract Graph](../images/2023_caffeine.jpg)
+
+
 * _2022_ [Proteomic and clinical biomarkers for acute mountain sickness in a longitudinal cohort](https://www.nature.com/articles/s42003-022-03514-6)
    + **Reproducible research**: [code](https://github.com/Monica1227/AMS_biomarker)
    + ![Abstract Graph](../images/AMS_proteomic_biomarker.png)
@@ -58,4 +62,4 @@ Meeting with slides:
 * [Transcriptome-based drug repositioning for COVID-19](https://github.com/zhilongjia/slides/blob/master/BioST20210825_ZhilongJia-v6.pdf) at [World biological science and technology conference 2021 BioST virtual 2021](https://www.biostvirtual.org/)
 
 
-Updated Date： 19 Oct., 2021.
+Updated Date： 25 Apr., 2023.

@@ -18,13 +18,14 @@ Education
 
 Work experience
 ======
-* 2016-: Assistant Professor
+* 2016-2022: Assistant Professor
+* 2022-: Associate Professor
   * [Chinese PLA General Hospital](http://www.301hospital.com.cn/en2012/web/index.html)
 
 Research Interests
 ======
 * Drug repositioning
-* Bioinformatics
+* Omics
 
 Publications
 ======
@@ -41,4 +42,4 @@ Talks
 
 Service
 ======
-* [Peer Reviewers](https://publons.com/researcher/ABA-9776-2020/)
+* [Peer Reviewers](https://www.webofscience.com/wos/author/rid/ABA-9776-2020)
