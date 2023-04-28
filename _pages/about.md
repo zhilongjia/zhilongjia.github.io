@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Brief Introduction"
+title: "Zhilong Jia's Personal Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in Chinese PLA General Hospital after obtaining a doctor of philosophy degree in Biomedical Engineering. My research interests are drug repositioning and Omics I developed drug repositioning methods, such as cogena, and applied them into various diseases, such as cardiovascular disease, periodontal disease, mountain sickness and COVID-19.
+I am an Associate Professor in Chinese PLA General Hospital after obtaining a doctor of philosophy degree in Biomedical Engineering. My research interests are drug repositioning and Omics. I developed drug repositioning methods, such as cogena, and applied them into various diseases, such as cardiovascular disease, periodontal disease, mountain sickness and COVID-19.
 
 Selected papers:
 ======
