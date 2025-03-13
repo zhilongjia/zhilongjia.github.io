@@ -13,13 +13,13 @@ I am an Associate Professor at Chinese PLA General Hospital after obtaining a do
 Selected papers:
 ======
 
+* _2025_ [Genetically supported targets and drug repurposing for brain aging: A systematic study in the UK Biobank](https://doi.org/10.1126/sciadv.adr3757)
+    + **Reproducible research**: [code](https://github.com/zhilongjia/bag_estimation)
+    + ![Abstract Graph](../images/2025-brain_aging.jpg)
+
 * _2025_ [Machine learning reveals connections between preclinical type 2 diabetes subtypes and brain health](https://doi.org/10.1093/brain/awaf057)
     + **Reproducible research**: [code](https://github.com/zhilongjia/disease-progression-preclinical-T2DM)
     + ![Abstract Graph](../images/2025-T2D_subtypes.jpg)
-
-* _2025_ [Genetically supported targets and drug repurposing for brain aging: A systematic study in the UK Biobank](https://doi.org/10.1126/sciadv.adr3757)
-    + **Reproducible research**: [code](https://github.com/zhilongjia/bag_estimation)
-    +![Abstract Graph](../images/2025-brain_aging.jpg)
 
 * _2023_ [Structural variants involved in high-altitude adaptation detected using single-molecule long-read sequencing](https://www.nature.com/articles/s41467-023-44034-z)
    + [TibetanSV web server](https://zhilong.shinyapps.io/tibetan)
