@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in Chinese PLA General Hospital after obtaining a doctor of philosophy degree in Biomedical Engineering. My research interests are drug repositioning and Omics. I developed drug repositioning methods, such as cogena, and applied them into various diseases, such as cardiovascular disease, periodontal disease, mountain sickness and COVID-19.
+I am an Associate Professor at Chinese PLA General Hospital after obtaining a doctor of philosophy degree in Biomedical Engineering. My research interests are drug repositioning and Omics. I developed drug repositioning methods, such as cogena, and applied them into various diseases, such as cardiovascular disease, periodontal disease, mountain sickness and COVID-19.
 
 Selected papers:
 ======
 
+* _2025_ [Machine learning reveals connections between preclinical type 2 diabetes subtypes and brain health](https://doi.org/10.1093/brain/awaf057)
+    + **Reproducible research**: [code](https://github.com/zhilongjia/disease-progression-preclinical-T2DM)
+    + ![Abstract Graph](../images/2025-T2D_subtypes.jpg)
+
+* _2025_ [Genetically supported targets and drug repurposing for brain aging: A systematic study in the UK Biobank](https://doi.org/10.1126/sciadv.adr3757)
+    + **Reproducible research**: [code](https://github.com/zhilongjia/bag_estimation)
+    +![Abstract Graph](../images/2025-brain_aging.jpg)
+
 * _2023_ [Structural variants involved in high-altitude adaptation detected using single-molecule long-read sequencing](https://www.nature.com/articles/s41467-023-44034-z)
-   * [TibetanSV web server](https://zhilong.shinyapps.io/tibetan)
+   + [TibetanSV web server](https://zhilong.shinyapps.io/tibetan)
    + ![Abstract Graph](../images/2023-ONT_tibetan.jpg)
    
 * _2023_ [Low-dose of caffeine alleviates high altitude pulmonary edema via regulating mitochondrial quality control process in AT1 cells](https://www.frontiersin.org/articles/10.3389/fphar.2023.1155414/full)
@@ -67,4 +75,4 @@ Meeting with slides:
 * [Transcriptome-based drug repositioning for COVID-19](https://github.com/zhilongjia/slides/blob/master/BioST20210825_ZhilongJia-v6.pdf) at [World biological science and technology conference 2021 BioST virtual 2021](https://www.biostvirtual.org/)
 
 
-Updated Date： 18 Dec., 2023.
+Updated Date： 13 March, 2025.
