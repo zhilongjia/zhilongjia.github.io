@@ -1,0 +1,3 @@
+title	type	url_slug	venue	date	location	talk_url	description
+Drug repositioning based on coexpressed gene-set enrichment analysis (cogena) 	Conference proceedings talk	cogena_bioc	European Bioconductor Developers' Conference 2015	2015-07-12	Cambridge	https://sites.google.com/site/eurobioc2015/timetable	introduce cogena
+Co-expressed gene-set enrichment analysis for drug repositioning with examples of psoriasis and periodontal diseases	Conference proceedings talk	applicaitonofcogena	The 4th Big Data Forum for Life and Health Sciences 2019	2019-10-13	Beijing	https://ngdc.cncb.ac.cn/conference/bdf2019	drug repositioning for psoriasis and periodontal diseases
