@@ -1,7 +1,7 @@
 ---
-title: '2025-05-13: 6_articles_updated'
+title: '2025-05-13-6_articles_updated'
 date: 2025-05-13
-permalink: /posts/2025/05/2025-05-13: 6_articles_updated/
+permalink: /posts/2025/05/2025-05-13-6_articles_updated/
 tags:
   - articles
 ---
