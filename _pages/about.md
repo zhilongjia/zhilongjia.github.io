@@ -65,4 +65,8 @@ Meeting with slides:
 * [Transcriptome-based drug repositioning for COVID-19](https://github.com/zhilongjia/slides/blob/master/BioST20210825_ZhilongJia-v6.pdf) at [World biological science and technology conference 2021 BioST virtual 2021](https://www.biostvirtual.org/)
 
 
+Visitor count:
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fzhilongjia.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 Updated Date： 18 June, 2026.
