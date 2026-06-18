@@ -16,7 +16,6 @@ Selected papers:
 * _2026_ [Dietary rhythms and biological aging risk across multiple organs, published in npj Science of Food](https://doi.org/10.1038/s41538-026-00799-3)
     + ![Abstract Graph](../images/2026-Dietary_Aging.jpg)
 
-
 * _2025_ [Genetically supported targets and drug repurposing for brain aging: A systematic study in the UK Biobank, published in Sci Adv](https://doi.org/10.1126/sciadv.adr3757)
     + **Reproducible research**: [code](https://github.com/zhilongjia/bag_estimation)
     + ![Abstract Graph](../images/2025-brain_aging.jpg)
@@ -47,20 +46,15 @@ Selected papers:
    + **Reproducible research**: [code](https://github.com/zhilongjia/COVID-19)
    + ![Abstract Graph](../images/drpCOVID19.png)
 
-* _2019_ [Time-Course Transcriptome Analysis for Drug Repositioning in *Fusobacterium nucleatum*-Infected Human Gingival Fibroblasts, published in Frontiers in Cell Biology](https://www.frontiersin.org/articles/10.3389/fcell.2019.00204/full) or [PubMed](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc6771468/)
+* _2019_ [Time-Course Transcriptome Analysis for Drug Repositioning in *Fusobacterium nucleatum*-Infected Human Gingival Fibroblasts, published in Frontiers in Cell Biology](https://www.frontiersin.org/articles/10.3389/fcell.2019.00204/full)
     + **Reproducible research**: [code](https://github.com/zhilongjia/Fn_HGFcell)
     + ![Abstract Graph](../images/drpFN.png)
-
 
 * _2016_ [Cogena, a novel tool for co-expressed gene-set enrichment analysis, applied to drug repositioning and drug mode of action discovery, published in BMC Genomics](http://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-2737-8)
     + **cogena**: [code](https://github.com/zhilongjia/cogena) or [Bioconductor](http://www.bioconductor.org/packages/devel/bioc/html/cogena.html)
     + **Reproducible research**: [code](https://github.com/zhilongjia/psoriasis)
     + ![Abstract Graph](../images/cogena.png)
 
-*  _2015_ [Gene Ranking of RNA-Seq Data via Discriminant Non-Negative Matrix Factorization (DNMF), published in PLOS ONE](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0137782)
-    + **DNMF package**: [CRAN](https://cran.r-project.org/web/packages/DNMF/index.html)
-    + **Reproducible research**: [code](https://github.com/zhilongjia/geneRanking)
-    + ![Abstract Graph](../images/DNMF.png)
 
 Meeting with slides:
 ======
@@ -71,4 +65,4 @@ Meeting with slides:
 * [Transcriptome-based drug repositioning for COVID-19](https://github.com/zhilongjia/slides/blob/master/BioST20210825_ZhilongJia-v6.pdf) at [World biological science and technology conference 2021 BioST virtual 2021](https://www.biostvirtual.org/)
 
 
-Updated Date： 13 March, 2025.
+Updated Date： 18 June, 2026.
