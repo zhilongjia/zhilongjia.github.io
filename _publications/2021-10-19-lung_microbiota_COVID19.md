@@ -14,7 +14,7 @@ citation: 'Han Y, Jia Z, Shi J, Wang W, He K. 2021. The active lung microbiota l
 
 <a href='http://zhilongjia.github.io/files/2021_hypoxia_intestines.pdf'>Download paper here</a>
 
-![Abstract Graph](../images/lung_microbiota_COVID19.png)
+![Abstract Graph](../images/lung_microbiota_COVID19.jpg)
 
 Introduction: With the outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the interaction between the host and SARS-CoV-2 was widely studied. However, it is unclear whether and how SARS-CoV-2 infection affects lung microflora, which contribute to COVID-19 complications.
 
